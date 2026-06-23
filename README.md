@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Thirupathi Balaji 👋
 
-<!--
-**Thiru1936/Thiru1936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer
 
-Here are some ideas to get you started:
+## About Me
+- Passionate about software development and problem solving.
+- Solving Data Structures & Algorithms using Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Java
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiru190306&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru190306&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Thiru190306&theme=tokyonight)
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/thirupathibalajis
+- LeetCode: https://leetcode.com/u/thiru190306/
