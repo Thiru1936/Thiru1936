@@ -28,7 +28,7 @@ A Zero Trust Network Access (ZTNA) based secure file storage system with user be
 - Insider threat detection
 - SQLite database integration
 
-🔗 **Repository:** https://github.com/Thiru1936/your-repository
+🔗 **Repository:** https://github.com/Thiru1936/ZTNA-SecureVault
 
 ---
 
