@@ -27,7 +27,7 @@ A Zero Trust Network Access (ZTNA) based secure file storage system with user be
 - User behavior monitoring
 - Insider threat detection
 
-🔗 **Repository:** https://github.com/Thiru1936/ZTNA-SecureVault
+🔗 [View Repository](https://github.com/Thiru1936/ZTNA-SecureVault)
 
 ---
 
