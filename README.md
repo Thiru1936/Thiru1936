@@ -1,9 +1,9 @@
 # Hi, I'm Thirupathi Balaji 👋
 
-💻 Java Developer
+💻 Software Developer
 
 ## About Me
-- Passionate Java developer with an interest in backend development.
+- Passionate Software developer with an interest in backend development.
 - Building secure web applications and learning modern software development practices.
 
 ## Tech Stack
